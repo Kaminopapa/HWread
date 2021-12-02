@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/HWread/static/css/main.cebe67be.chunk.css",
+    "main.js": "/HWread/static/js/main.69aa80d8.chunk.js",
+    "main.js.map": "/HWread/static/js/main.69aa80d8.chunk.js.map",
+    "runtime-main.js": "/HWread/static/js/runtime-main.2849164e.js",
+    "runtime-main.js.map": "/HWread/static/js/runtime-main.2849164e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/HWread/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.78c626a7.chunk.js": "/HWread/static/js/2.78c626a7.chunk.js",
+    "static/js/2.78c626a7.chunk.js.map": "/HWread/static/js/2.78c626a7.chunk.js.map",
+    "static/js/3.32fcb960.chunk.js": "/HWread/static/js/3.32fcb960.chunk.js",
+    "static/js/3.32fcb960.chunk.js.map": "/HWread/static/js/3.32fcb960.chunk.js.map",
+    "index.html": "/HWread/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/HWread/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.cebe67be.chunk.css.map": "/HWread/static/css/main.cebe67be.chunk.css.map",
+    "static/js/2.78c626a7.chunk.js.LICENSE.txt": "/HWread/static/js/2.78c626a7.chunk.js.LICENSE.txt",
+    "static/media/logo.975c9a1b.png": "/HWread/static/media/logo.975c9a1b.png",
+    "static/media/logo.e12b899b.jpeg": "/HWread/static/media/logo.e12b899b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2849164e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.78c626a7.chunk.js",
+    "static/css/main.cebe67be.chunk.css",
+    "static/js/main.69aa80d8.chunk.js"
+  ]
+}
